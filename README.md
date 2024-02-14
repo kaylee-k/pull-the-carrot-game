@@ -2,6 +2,8 @@
 
 <img width="757" alt="PullTheCarrotGame" src="https://github.com/kaylee-k/pull-the-carrot-game/assets/151891463/f7623409-b0bd-45c7-984c-20e6b0ba2341">
 
+[Click ➡️ ] https://kaylee-k.github.io/pull-the-carrot-game/
+
 ## Description
 Welcome to Pull the Carrot Game, a simple clicking challenge!
 
